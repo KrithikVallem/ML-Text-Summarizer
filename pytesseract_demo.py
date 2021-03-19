@@ -1,4 +1,5 @@
-# https://pypi.org/project/pytesseract/#installation
+# read the installation instructions!!!
+#https://pypi.org/project/pytesseract/#installation
 image_input_folder = "input_images"
 
 from PIL import Image
