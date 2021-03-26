@@ -1,0 +1,9 @@
+Raj #2: https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+
+Raj #1: https://machinelearningmastery.com/gentle-introduction-text-summarization/
+
+https://towardsdatascience.com/text-summarization-using-deep-neural-networks-e7ee7521d804
+
+https://towardsdatascience.com/simple-abstractive-text-summarization-with-pretrained-t5-text-to-text-transfer-transformer-10f6d602c426
+
+https://www.hindawi.com/journals/cin/2020/7526580/
